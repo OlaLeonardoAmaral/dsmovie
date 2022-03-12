@@ -8,7 +8,7 @@
 
 ### Como avaliar um filme:
 
-* [Abra o site DSMovie 🎬](https://dsmovie-leonardoamaral.netlify.app/)
+* <a href="https://dsmovie-leonardoamaral.netlify.app/" target="_blank">Abra o site DSMovie 🎬</a>
 
 * Clique no botão Avaliar 🌟
 * Digite um email valido ✉
@@ -16,7 +16,3 @@
 * Clique em salvar ✅
 
 <img height="300px" src="https://user-images.githubusercontent.com/86934921/157894458-2bb7d43d-3490-49e8-a1fa-526f7c21eac8.gif"/>
-
-
-
-
