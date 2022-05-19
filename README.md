@@ -16,3 +16,18 @@
 * Clique em salvar ✅
 
 <img height="300px" src="https://user-images.githubusercontent.com/86934921/157894458-2bb7d43d-3490-49e8-a1fa-526f7c21eac8.gif"/>
+
+---
+
+<h2 aligh="center">
+  Ferramentas e Linguagens utilizadas
+</h2>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Leo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Leo-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Leo-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+</div>
+  
+
+---
